@@ -1,3 +1,3 @@
 # modern
 
-Point say century human local.
+Cut in chance partner budget state.
