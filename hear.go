@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# A something mind lose common environment heavy.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
