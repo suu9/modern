@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Spring role environment.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
