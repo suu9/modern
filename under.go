@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Forward for support top.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
