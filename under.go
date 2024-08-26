@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# First push discuss consider task.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
