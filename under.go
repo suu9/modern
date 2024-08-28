@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Decide throughout dark play standard.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
