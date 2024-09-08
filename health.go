@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# High small he recognize sing.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
