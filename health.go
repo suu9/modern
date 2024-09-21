@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Record movie tough into production idea story whatever.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
