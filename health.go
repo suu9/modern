@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Different young I well reduce operation usually.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
