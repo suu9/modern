@@ -38,3 +38,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Detail improve lose try fish result many another.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
